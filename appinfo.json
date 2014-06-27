@@ -1,0 +1,25 @@
+{
+    "companyName": "5point6.net",
+    "uuid": "01c6c850-d312-48a1-bea7-4ed22c886de7",
+    "shortName": "Woolly",
+    "capabilities": [
+        ""
+    ],
+    "versionCode": 1,
+    "longName": "Woolly Watchface",
+    "appKeys": {},
+    "resources": {
+        "media": [
+            {
+                "file": "images/woolly.png",
+                "name": "SHEEP",
+                "type": "png",
+                "menuIcon": true
+            }
+        ]
+    },
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
